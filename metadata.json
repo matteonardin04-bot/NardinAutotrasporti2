@@ -1,0 +1,7 @@
+{
+  "name": "Nardin Autotrasporti - Trasporti Speciali e Gru",
+  "description": "Sito web professionale per Nardin Autotrasporti, specializzato in trasporti eccezionali, sollevamenti industriali e servizi con autogrù.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
